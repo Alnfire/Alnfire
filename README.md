@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hello World!!! 
 
 <!--
 **Alnfire/Alnfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Alnfire/Alnfire/output/snake.svg" alt="Snake animation" />
 
+###
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
