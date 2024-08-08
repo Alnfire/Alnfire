@@ -2,7 +2,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alnfire/Alnfire/output/snake.svg" alt="Snake animation" />
 
 ###
 
